@@ -242,8 +242,4 @@ Place these CSV files in the root folder:
 * Even simple features (like URL domains) provide strong signals
 * Temporal-HGAT shows consistent improvement across datasets
 
----
 
-
-* Make it **ATS/recruiter optimized**
-* Or convert into a **research-paper style README with diagrams**
